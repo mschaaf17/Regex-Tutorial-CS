@@ -53,5 +53,5 @@ The + and {} are greedy operators so they can match more than one of what is spe
  
 ## Author
  
-My name is Madison Schaaf. I am working towards becoming a full stack developer. Check out my GitHub.
+My name is Madison Schaaf. I am working towards becoming a full stack developer. Check out my GitHub 
 [mschaaf17](https://github.com/mschaaf17)
